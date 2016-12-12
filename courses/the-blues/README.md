@@ -1,32 +1,22 @@
-# Climate Change Mitigation in Developing Countries
+# The Blues: Understanding and Performing an American Art Form
 
-URL: https://www.coursera.org/learn/climate-change-mitigation/home/welcome
+URL: https://www.coursera.org/learn/the-blues/home/welcome
 
-Curriculum: University of Cape Town
+Curriculum: Dariusz Terefenko, University of Rochester
 
-Ping: 26.12.2016
+Ping: 13.12.2016
 
-## Week 1
+Start: 14.11.2016
 
-- [ ] Written Essay
-
-## Week 2
-
-- [ ] Quiz
-
-## Week 3
-
-- [ ] Written Essay
-
-## Week 4
-
-- [ ] Quiz
 
 ## Week 5
 
-- [ ] Written Essay
+- [ ] Quiz
 
 ## Week 6
 
 - [ ] Quiz
-- [ ] Final Exam
+
+## Week 7
+
+- [ ] Quiz

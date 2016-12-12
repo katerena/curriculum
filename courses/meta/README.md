@@ -22,17 +22,18 @@ Reflection: Although my initial idea for an MVP used a simple card-based HTML5 l
 - [X] Get a minimal viable product (MVP) running in Jupyter Notebook
 - [X] Have at least one visualization of accomplishment in the MVP dash
 - [X] Describe in the reflection the use cases and learnings
+- [X] Lack of line breaks looks bad in the GH markdown viewer, so need to adjust the rules and the parser before plowing ahead with data migration
+- [X] Figure out a way to deal with reading-centered tasks, and with reading notes (related more general probelm: links and relative references, as well as privacy - this repository is public, but book notes may need to stay private or with restricted visibility, such as the MHS text) such as in the art-of-programming self-guided course. Solution: just use google docs or other cloud hosting, using those sharing settings, and the URL and Keyword elements.
 
 ## Week 2
 
-Learning Goal: Explore possibilities and limitations of current set-up.
+Learning Goal: Explore possibilities and limitations of current set-up, particulalry by identifying some outstanding projects and ideas and articulating them here.
 
-Start: 12.12.2016
+Reflections: Already, one idea hasb een to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
 
-- [X] Lack of line breaks looks bad in the GH markdown viewer, so need to adjust the rules and the parser before plowing ahead with data migration
-- [X] Figure out a way to deal with reading-centered tasks, and with reading notes (related more general probelm: links and relative references, as well as privacy - this repository is public, but book notes may need to stay private or with restricted visibility, such as the MHS text) such as in the art-of-programming self-guided course. Solution: just use google docs or other cloud hosting, using those sharing settings, and the URL and Keyword elements.
 - [ ] Migrate all the other course data in here
-- [ ] Develop several of own courses, such as German; Qual; or some arts and crafts stuff
+- [ ] Develop several of own courses, such as German; Qual; or some arts and crafts stuff; blogging and memoiring; horror, short story writing, readings, etc, songwriting, whatever is in Evernote or Pinterest, etc
+- [ ] Make initial comments on possible benefits of integrations
 - [ ] Make more progress on recording and storing portfolio project  information, particularly the song and the game design characters, and write a script to combine the header+(items)+footer HTML to make a landing page
 
 ## Week 4
