@@ -29,27 +29,26 @@ Learning Goal: Explore possibilities and limitations of current set-up.
 
 Start: 12.12.2016
 
-- [ ] Lack of line breaks looks bad in the GH markdown viewer, so need to adjust the rules and the parser before plowing ahead with data migration
+- [X] Lack of line breaks looks bad in the GH markdown viewer, so need to adjust the rules and the parser before plowing ahead with data migration
+- [X] Figure out a way to deal with reading-centered tasks, and with reading notes (related more general probelm: links and relative references, as well as privacy - this repository is public, but book notes may need to stay private or with restricted visibility, such as the MHS text) such as in the art-of-programming self-guided course. Solution: just use google docs or other cloud hosting, using those sharing settings, and the URL and Keyword elements.
 - [ ] Migrate all the other course data in here
-- [ ] Develop several of own courses, such as German or some arts and crafts stuff
+- [ ] Develop several of own courses, such as German; Qual; or some arts and crafts stuff
 - [ ] Make more progress on recording and storing portfolio project  information, particularly the song and the game design characters, and write a script to combine the header+(items)+footer HTML to make a landing page
 
 ## Week 4
 
-[ ] Landing pages
+- [ ] Landing pages for courses: focusing on projects and reflections
+- [ ] Write up comparison agains straight README rendering in GH markdown
 
 ## Week 3
 
 Learning Goal: Investigate different integrations and identify (1) possible uses and (2) necessary, desirable, and nice-to-have features
 
-[ ] Follow up on Coursera API
-[ ] [Pinterest API](https://developers.pinterest.com/apps/4872901797745801441/)
-[ ] [Evernote API](https://dev.evernote.com/doc/)
-[ ] Wunderlist API
-[ ] Beeminder API
+- [ ] Follow up on Coursera API
+- [ ] [Pinterest API](https://developers.pinterest.com/apps/4872901797745801441/)
 
 ## Week ?
 
 Learning Goal: Investigate and try out some minimal (in time and cost) stacks for a database-backed application
 
-[ ] Cloud DB options: [A](http://www.htmlgoodies.com/html5/client/activity-so-you-want-to-build-and-deploy-a-web-app-to-the-cloud-at-low-to-no-cost.html#fbid=Bm_bDZAh1yL), [B](http://rdbhost.blogspot.de/2011/05/host-your-database-backed-site-on.html) and [B'](https://www.rdbhost.com/github_hosting.html)
+- [ ] Cloud DB options: [A](http://www.htmlgoodies.com/html5/client/activity-so-you-want-to-build-and-deploy-a-web-app-to-the-cloud-at-low-to-no-cost.html#fbid=Bm_bDZAh1yL), [B](http://rdbhost.blogspot.de/2011/05/host-your-database-backed-site-on.html) and [B'](https://www.rdbhost.com/github_hosting.html)
