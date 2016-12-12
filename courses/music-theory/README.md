@@ -1,5 +1,9 @@
 # Fundamentals of Music Theory
 
+Category: Music
+
+Start: 05.12.2016
+
 URL: https://www.coursera.org/learn/edinburgh-music-theory/home/welcome
 
 Curriculum: University of Edinbourgh

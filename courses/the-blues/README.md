@@ -8,6 +8,8 @@ Ping: 13.12.2016
 
 Start: 14.11.2016
 
+Category: Music
+
 
 ## Week 5
 
