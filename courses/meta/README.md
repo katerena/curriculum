@@ -30,7 +30,7 @@ Reflection: Although my initial idea for an MVP used a simple card-based HTML5 l
 
 Learning Goal: Explore possibilities and limitations of current set-up, particulalry by identifying some outstanding projects and ideas and articulating them here.
 
-Reflections: Already, one idea hasb een to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
+Reflection: Already, one idea hasb een to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
 
 - [ ] Develop several of own courses, such as German; Qual; or some arts and crafts stuff; blogging and memoiring; horror, short story writing, readings, etc, songwriting, whatever is in Evernote or Pinterest, etc
 - [ ] Make initial comments on possible benefits of integrations
