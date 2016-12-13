@@ -19,6 +19,9 @@ URL: https://docs.google.com/document/d/1oj2G-HjYJbYpZRYoJkt7VboLlfq0g4GJH3K2CuM
 - [ ] Episode pitch
 - [ ] Act 1 outline
 - [ ] Act 1 draft
+- [ ] Episode pitch - peer review
+- [ ] Act 1 outline - peer review
+- [ ] Act 1 draft - peer review
 
 ## Week 3
 

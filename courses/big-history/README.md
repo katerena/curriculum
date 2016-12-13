@@ -6,7 +6,7 @@ URL: https://www.coursera.org/learn/big-history/home/welcome
 
 Curriculum: David Baker, Macquarie University
 
-Ping: 13.12.2016
+Ping: 20.12.2016
 
 Start: 05.12.2016
 
@@ -16,7 +16,7 @@ Start: 05.12.2016
 
 ## Week 2
 
-- [ ] Quiz
+- [X] Quiz
 
 ## Week 3
 
