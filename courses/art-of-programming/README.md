@@ -4,7 +4,7 @@ Category: Readings
 
 Curriculum: Self
 
-URL: [https://docs.google.com/document/d/1CD2bOwV5-VAXorAmYwHZQjEucoX6n8qLg1DmEmHeeCs/edit?usp=sharing]
+URL: https://docs.google.com/document/d/1CD2bOwV5-VAXorAmYwHZQjEucoX6n8qLg1DmEmHeeCs/edit?usp=sharing
 
 Ping: 13.12.2016
 
