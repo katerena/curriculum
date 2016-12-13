@@ -59,6 +59,7 @@ Learning Goal: Investigate integrations into broader task and life management ap
 - [ ] Reflect on data-centric tools, such as Flat Tomato, Beeminder, and RescueTime
 - [ ] Reflect on the ideas from prior well-used tools, such as TeuxDeux or today.txt or Chrome Momentum application
 - [ ] Implement [today.txt](http://johnhenrymuller.com/today) perhaps with [Wunderlist integration](https://developer.wunderlist.com/documentation) or [todo.txt](http://todotxt.com/)
+- [ ] Think about putting it online along with / replacing the [nows page](http://katerena.github.io/now/)
 
 ## Week 5
 
