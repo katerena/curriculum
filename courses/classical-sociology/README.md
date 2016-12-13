@@ -4,7 +4,7 @@ URL: https://www.coursera.org/learn/classical-sociological-theory/home/welcome
 
 Curriculum: University of Amsterdam
 
-Ping: 13.12.2016
+Ping: 20.12.2016
 
 ## Week 1
 
@@ -16,7 +16,7 @@ Ping: 13.12.2016
 
 ## Week 3
 
-- [ ] Quiz
+- [X] Quiz
 
 ## Week 4
 

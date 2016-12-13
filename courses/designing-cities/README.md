@@ -6,7 +6,7 @@ Curriculum: University of Pennsylvania
 
 Category: History
 
-Ping: 7.1.2016
+Ping: 07.01.2017
 
 Start: 26.12.2016
 

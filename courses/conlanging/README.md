@@ -22,11 +22,11 @@ Keywords: conlang auxlang
 
 ## Week 2
 
-Learning Goal: get practice with different writing systems
+Learning Goal: get practice with different writing systems.
 
 - [ ] [Practice Gothic lettering](http://www.calligraphy-skills.com/gothic-alphabet.html)
-- [ ] Practice Arabic script
-- [ ] Practice -kaba and kanji writing
+- [X] Practice Arabic script
+- [X] Practice -kaba and kanji writing
 
 ## Week 3
 
