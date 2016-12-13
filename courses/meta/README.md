@@ -1,6 +1,6 @@
 # Design and Develop Self-Guided Learning Dashboard
 
-Category: Meta
+Category: Programming
 
 Curriculum: Self
 
@@ -30,11 +30,15 @@ Reflection: Although my initial idea for an MVP used a simple card-based HTML5 l
 
 Learning Goal: Explore possibilities and limitations of current set-up, particulalry by identifying some outstanding projects and ideas and articulating them here.
 
-Reflection: Already, one idea hasb een to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
+Reflection: Already, one idea has been to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
 
-- [ ] Develop several of own courses, such as German; Qual; or some arts and crafts stuff; blogging and memoiring; horror, short story writing, readings, etc, songwriting, whatever is in Evernote or Pinterest, etc
-- [ ] Make initial comments on possible benefits of integrations
-- [ ] Make more progress on recording and storing portfolio project  information, particularly the song and the game design characters, and write a script to combine the header+(items)+footer HTML to make a landing page
+- [X] Implement a Jupyter Notebook that updates the today.txt, which is then included in the output
+- [X] MVP script to combine the header+(items)+footer HTML to make a landing page
+- [ ] Support for writing files out; MVP should prevent overwriting if not all lines successfully ingensted and the two following features.
+- [ ] First, support changing metadata through iPyInteract: eg, be able to search through by metadata, and update it, such as Sategory, etc. 
+- [ ] Second, support renaming a magic word into another magic word, such as "Curriculum" into "Author" or "Photo-Credit" into "Photo Credit." Note that this would also involve savign as a python file the current enum, and making another enum, and then defining which one is used. Another field in courseDesc could be _interpreter_, which would involve [dynamic module loading](http://stackoverflow.com/questions/951124/dynamic-loading-of-python-modules).
+- [ ] MVP for recording and storing portfolio project information
+- [ ] As examples of portfolio projects, use the music-text song and the game design characters
 
 ## Week 3
 
@@ -54,7 +58,7 @@ Learning Goal: Investigate integrations into broader task and life management ap
 - [ ] Reflect on [procrastination patterns](http://www.studygs.net/attmot3.htm)
 - [ ] Reflect on data-centric tools, such as Flat Tomato, Beeminder, and RescueTime
 - [ ] Reflect on the ideas from prior well-used tools, such as TeuxDeux or today.txt or Chrome Momentum application
-- [ ] Implement [today.txt](http://johnhenrymuller.com/today) perhaps with [Wunderlist integration](https://developer.wunderlist.com/documentation)
+- [ ] Implement [today.txt](http://johnhenrymuller.com/today) perhaps with [Wunderlist integration](https://developer.wunderlist.com/documentation) or [todo.txt](http://todotxt.com/)
 
 ## Week 5
 
@@ -69,3 +73,4 @@ Learning Goal: understand this personal effort in the context of existing topics
 Learning Goal: Investigate and try out some minimal (in time and cost) stacks for a database-backed application, and decide whether the next stage with remain in markdown-world, or whether a fully featured web app would be worth it
 
 - [ ] Cloud DB options: [A](http://www.htmlgoodies.com/html5/client/activity-so-you-want-to-build-and-deploy-a-web-app-to-the-cloud-at-low-to-no-cost.html#fbid=Bm_bDZAh1yL), [B](http://rdbhost.blogspot.de/2011/05/host-your-database-backed-site-on.html) and [B'](https://www.rdbhost.com/github_hosting.html)
+- [ ] The alternative is to use files locally: [web example](https://github.com/bicarbon8/todoTxtWebUi) and [another web example](https://github.com/infews/bulldog); [chrome app example](https://chrome.google.com/webstore/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl) and [another one](https://chrome.google.com/webstore/detail/todotxt-lean-fast-task-ma/ohjgbfjncbnecbnijmpgjhodnhbhnjgk)

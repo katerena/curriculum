@@ -1,0 +1,118 @@
+/* THIS IS A HOT MESS BUT IN MY DEFENSE I AM BUSY AND STUFF */
+
+h1 {
+	padding-top:30px;
+	color:#AAA;
+	font-size:3em;
+}
+h1 small {
+	font-size:.5em;
+}
+.items {
+	clear:both;
+	text-align: center;
+	padding:20px;
+}
+.item, .item .label {
+	display:inline;
+}
+.item {
+	position:relative;
+}
+.item img{
+	width:150px;
+	height:150px;
+	z-index:3;
+	border:solid 1px #DDDDDD;
+	margin-top:10px;
+	padding:2px;
+}
+.item .label {
+	position: absolute;
+	bottom:-3px;
+	left:3px;
+	z-index:4;
+	width:140px;
+	background-color:#ffffff;
+	padding:1px;
+	border:solid 1px #DDDDDD;
+}
+body {
+	width:70%;
+	margin:auto;
+    font-family: Lato;
+    font-weight: 300;
+}
+p, li {
+	color:#000000;
+}
+p .date{
+	color:#ffffff;
+	background-color:#666666;
+	padding-right:3px;
+	padding-left:3px;
+}
+p .date.new{
+	background-color:#dd6666;
+}
+
+img{
+	border-bottom:solid 20px #fff;
+	border-left:solid 20px #fff;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    margin-top:15px;
+}
+ul ul, ul ol{
+    margin-top:0px;
+    margin-left:30px;
+}
+li.bracket {
+    padding-top:7px;
+    margin-top:10px;
+    padding-left:10px;
+    padding-right:20px;
+    border:solid 1px #ddd;
+    margin-left:-10px;
+    padding-bottom:10px;
+    margin-bottom:10px;
+}
+li {
+    text-align: justify;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+li ul>li {
+    text-indent: 20px;
+}
+
+strong, em {
+    font-weight: 900;
+}
+
+h2, h1{
+    padding:0px;
+    margin-bottom:0px;
+    font-family:"Julius Sans One";
+}
+
+h2 {
+    margin-top:100px;
+    padding-top:50px;
+}
+.menu {
+    color:#888;
+}
+.menu a{
+    color:#555;
+}
+
+#footer{
+    padding-top:1000px;
+    padding-bottom:200px;
+}
