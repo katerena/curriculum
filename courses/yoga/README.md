@@ -1,4 +1,4 @@
-# Establishing a Ubiquitous Yoga Practice
+# Establishing a Sustainable Health Pattern
 
 Category: Health
 
@@ -6,7 +6,7 @@ Curriculum: Self
 
 Ping: 14.12.2016
 
-Start: 
+Start: 12.12.2016
 
 Thumb: moinmoin.PNG
 
@@ -19,6 +19,7 @@ Learning Goal: continue to cultivate a pattern of short regular sessions
 - [X] One morning DailyYoga session
 - [ ] One evening DailyYoga session
 - [ ] Bouldering or a long-ish bike ride
+- [ ] Formal meditation
 
 ## Week 2
 

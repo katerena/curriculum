@@ -1,10 +1,10 @@
-# Meta: Design and Develop Self-Guided Learning Dashboard
+# Design and Develop Self-Guided Learning Dashboard
 
-Category: Toys and Apps
+Category: Meta
 
 Curriculum: Self
 
-Ping: 20.12.2016
+Ping: 26.12.2016
 
 Start: 12.12.2016
 
@@ -36,20 +36,36 @@ Reflection: Already, one idea hasb een to just migrate tasks upwards if I get to
 - [ ] Make initial comments on possible benefits of integrations
 - [ ] Make more progress on recording and storing portfolio project  information, particularly the song and the game design characters, and write a script to combine the header+(items)+footer HTML to make a landing page
 
-## Week 4
-
-- [ ] Landing pages for courses: focusing on projects and reflections
-- [ ] Write up comparison agains straight README rendering in GH markdown
-
 ## Week 3
 
 Learning Goal: Investigate different integrations and identify (1) possible uses and (2) necessary, desirable, and nice-to-have features
 
+- [ ] Landing pages for courses: focusing on projects and reflections
+- [ ] Write up comparison agains straight README rendering in GH markdown
+- [ ] Begin to migrate masterlists; content-ful Pinterest pages
 - [ ] Follow up on Coursera API
-- [ ] [Pinterest API](https://developers.pinterest.com/apps/4872901797745801441/)
+- [ ] [Pinterest API](https://developers.pinterest.com/apps/4872901797745801441)
+- [ ] Old stuff: masterlists, diigo, [GistNote](https://gistnote.com/), Day one
 
-## Week ?
+## Week 4
 
-Learning Goal: Investigate and try out some minimal (in time and cost) stacks for a database-backed application
+Learning Goal: Investigate integrations into broader task and life management approaches
+
+- [ ] Reflect on [procrastination patterns](http://www.studygs.net/attmot3.htm)
+- [ ] Reflect on data-centric tools, such as Flat Tomato, Beeminder, and RescueTime
+- [ ] Reflect on the ideas from prior well-used tools, such as TeuxDeux or today.txt or Chrome Momentum application
+- [ ] Implement [today.txt](http://johnhenrymuller.com/today) perhaps with [Wunderlist integration](https://developer.wunderlist.com/documentation)
+
+## Week 5
+
+Learning Goal: understand this personal effort in the context of existing topics in educational technology and self-guided learning
+
+- [ ] Look at some of the audit-only courses (such as Songwriting) and reflect on integrating own milestones with coursera lectures
+- [ ] Reading: [Self-directed learning: 4 step process](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-four-step-process)
+- [ ] Explore other platforms and tools: worldscienceu; [Khan Academy](https://www.khanacademy.org/); [Quora](https://www.quora.com/about) for both gaining and testing knowledge; [InstaGrok](http://www.instagrok.com/)
+
+## Week 6
+
+Learning Goal: Investigate and try out some minimal (in time and cost) stacks for a database-backed application, and decide whether the next stage with remain in markdown-world, or whether a fully featured web app would be worth it
 
 - [ ] Cloud DB options: [A](http://www.htmlgoodies.com/html5/client/activity-so-you-want-to-build-and-deploy-a-web-app-to-the-cloud-at-low-to-no-cost.html#fbid=Bm_bDZAh1yL), [B](http://rdbhost.blogspot.de/2011/05/host-your-database-backed-site-on.html) and [B'](https://www.rdbhost.com/github_hosting.html)
