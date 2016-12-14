@@ -4,9 +4,7 @@ Curriculum: Berklee
 
 Category: Music
 
-Ping: 14.12.2016
-
-Start: 12.12.2016
+Ping: 30.01.2017
 
 ## Week 1
 

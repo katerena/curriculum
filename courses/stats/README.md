@@ -14,6 +14,7 @@ Ping: 13.12.2016
 
 ## Week 2
 
+- [ ] Either set up R studio or - _better!_ - check out this [iPy tutorial using scipy](http://ipython-books.github.io/featured-07/)
 - [ ] Quiz
 
 ## Week 3

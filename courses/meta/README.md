@@ -16,11 +16,11 @@ Start: 12.12.2016
 
 End: 12.12.2016
 
-Reflection: Although my initial idea for an MVP used a simple card-based HTML5 layout, it was very fun to use Jupyter Notebook for the current use-cases (**UC1: Get Outstanding Tasks** and **UC2: Celebrate Accomplishments**) and the third major use-case (**UC3: Showcase Project Porfolio**) is just not very pressing. In particular, I thought that using images would be crucial for the MVP, but it seems like that can be done later because the links, in the context of Jupyter's relatively minimal UI, provide amply call to action. Also, the combination of **Learning Goal and Reflection** already feels like a very powerful tool, to the extent that it would perhaps be useful to take a "curriculum" approach to large projects in general, rather than only "online curricula" in particular.
+Reflection: Although my initial idea for an First-pass used a simple card-based HTML5 layout, it was very fun to use Jupyter Notebook for the current use-cases (**UC1: Get Outstanding Tasks** and **UC2: Celebrate Accomplishments**) and the third major use-case (**UC3: Showcase Project Porfolio**) is just not very pressing. In particular, I thought that using images would be crucial for the First-pass, but it seems like that can be done later because the links, in the context of Jupyter's relatively minimal UI, provide amply call to action. Also, the combination of **Learning Goal and Reflection** already feels like a very powerful tool, to the extent that it would perhaps be useful to take a "curriculum" approach to large projects in general, rather than only "online curricula" in particular.
 
 - [X] Explore minimalist, beutiful HTML5 themes; found [Prallelism](https://html5up.net/parallelism) and [Hydrogen](https://freehtml5.co/demos/hydrogen/), prefer Hydrogen but both nice.
-- [X] Get a minimal viable product (MVP) running in Jupyter Notebook
-- [X] Have at least one visualization of accomplishment in the MVP dash
+- [X] Get a minimal viable product (First-pass) running in Jupyter Notebook
+- [X] Have at least one visualization of accomplishment in the First-pass dash
 - [X] Describe in the reflection the use cases and learnings
 - [X] Lack of line breaks looks bad in the GH markdown viewer, so need to adjust the rules and the parser before plowing ahead with data migration
 - [X] Figure out a way to deal with reading-centered tasks, and with reading notes (related more general probelm: links and relative references, as well as privacy - this repository is public, but book notes may need to stay private or with restricted visibility, such as the MHS text) such as in the art-of-programming self-guided course. Solution: just use google docs or other cloud hosting, using those sharing settings, and the URL and Keyword elements.
@@ -33,17 +33,26 @@ Learning Goal: Explore possibilities and limitations of current set-up, particul
 Reflection: Already, one idea has been to just migrate tasks upwards if I get too excited (e.g., some of the tasks marked as completed from last week were actually initially here, but I got over-excited). The core difference between the weeks is off-time, and opportunity to dwell in the subsconscious on the various ideas, and allow them to germinate/rise/insert-cooking-metaphor here.
 
 - [X] Implement a Jupyter Notebook that updates the today.txt, which is then included in the output
-- [X] MVP script to combine the header+(items)+footer HTML to make a landing page
-- [ ] Support for writing files out; MVP should prevent overwriting if not all lines successfully ingensted and the two following features.
+- [X] First-pass script to combine the header HTML to make a landing page
+- [ ] Below list of features is getting impressive. Aside from implementing the first pass for each idea, create issues for them.
+- [ ] Order by ascending ping-day, and reduce ping-radius!
+- [ ] Add some more images to individual courses, and have links be in the images as well.
+- [ ] Support for writing files out; First-pass should prevent overwriting if not all lines successfully ingensted and the two following features.
 - [ ] First, support changing metadata through iPyInteract: eg, be able to search through by metadata, and update it, such as Sategory, etc. 
-- [ ] Second, support renaming a magic word into another magic word, such as "Curriculum" into "Author" or "Photo-Credit" into "Photo Credit." Note that this would also involve savign as a python file the current enum, and making another enum, and then defining which one is used. Another field in courseDesc could be _interpreter_, which would involve [dynamic module loading](http://stackoverflow.com/questions/951124/dynamic-loading-of-python-modules).
-- [ ] MVP for recording and storing portfolio project information
+- [ ] Second, support renaming a magic word into another magic word, such as "Curriculum" into "Author" or "Photo-Credit" into "Photo Credit." Note that this would also involve saving as a python file the current enum, and making another enum, and then defining which one is used. Another field in courseDesc could be _interpreter_, which would involve [dynamic module loading](http://stackoverflow.com/questions/951124/dynamic-loading-of-python-modules).
+- [ ] First-pass for recording and storing portfolio project information
 - [ ] As examples of portfolio projects, use the music-text song and the game design characters
+- [ ] Idea of **competencies**: Currently, I am storing a single Cateogiry for each course. Instead, could (1) store multiple competencies (eg, "writing" and "literature", (2) store nested competencies and include competencies particular to indicidual weeks (eg, "science/scipy" or "science/SLR"), (3) allow orphan competency notes: just random markdown files, possibly in a stream-of-consciousness _"lab notebook"_ format, which can also refer to specific competencies, (4) integrate competencies into _reflections_
+- [ ] Initially, I was thinking reflections would be modelled as courses, and the whole thing would be organized around pings and triggers. That is not the nature of how this is currently organized, but it does need **reflections** such as in a separate folder (in addition to courses/ and lab-notebook/) which can be anything, though future support for triggers and questions can be imagined. See [this 2014-2016 relfection dump](https://docs.google.com/document/d/1KaihtJ1EB-nhehPPOue4ziHqZ4Xctd-Af5fqUqaAFoU/edit)
+- [ ] **Security**: must not implement this in a way that demands reflections and lab notebook to be public (i.e., on GitHub). The compilation script could draw on multiple sources, some of which can be in private places, and then it is the resposibility of the build process (automated or otherwise) to appropriately summarize information.
+- [ ] First-pass overview of competencies
+- [ ] A first blog post about this crazy project?
 
 ## Week 3
 
 Learning Goal: Investigate different integrations and identify (1) possible uses and (2) necessary, desirable, and nice-to-have features
 
+- [ ] Add footer and item templating, not the way it currently is.
 - [ ] Landing pages for courses: focusing on projects and reflections
 - [ ] Write up comparison agains straight README rendering in GH markdown
 - [ ] Begin to migrate masterlists; content-ful Pinterest pages
@@ -75,3 +84,4 @@ Learning Goal: Investigate and try out some minimal (in time and cost) stacks fo
 
 - [ ] Cloud DB options: [A](http://www.htmlgoodies.com/html5/client/activity-so-you-want-to-build-and-deploy-a-web-app-to-the-cloud-at-low-to-no-cost.html#fbid=Bm_bDZAh1yL), [B](http://rdbhost.blogspot.de/2011/05/host-your-database-backed-site-on.html) and [B'](https://www.rdbhost.com/github_hosting.html)
 - [ ] The alternative is to use files locally: [web example](https://github.com/bicarbon8/todoTxtWebUi) and [another web example](https://github.com/infews/bulldog); [chrome app example](https://chrome.google.com/webstore/detail/todotxt-for-chrome-simple/mndijfcodpjlhgjcpcbhncjakaboedbl) and [another one](https://chrome.google.com/webstore/detail/todotxt-lean-fast-task-ma/ohjgbfjncbnecbnijmpgjhodnhbhnjgk)
+- [ ] Look into build stacks? Would be cool to "compile" upon push automativally
