@@ -1,10 +1,10 @@
-# The Blues: Understanding and Performing an American Art Form
+# The Blues
 
 URL: https://www.coursera.org/learn/the-blues/home/welcome
 
 Curriculum: Dariusz Terefenko, University of Rochester
 
-Ping: 13.12.2016
+Ping: 15.12.2016
 
 Start: 14.11.2016
 
@@ -13,6 +13,9 @@ Category: Music
 
 ## Week 5
 
+- [X] Did some actual guitar practice...
+- [ ] Write down the scales from some of the lessons in songbook
+- [ ] ... and practice them!
 - [ ] Quiz
 
 ## Week 6
