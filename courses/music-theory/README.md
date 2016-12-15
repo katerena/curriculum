@@ -8,7 +8,7 @@ URL: https://www.coursera.org/learn/edinburgh-music-theory/home/welcome
 
 Curriculum: University of Edinbourgh
 
-Ping: 13.12.2016
+Ping: 20.12.2016
 
 ## Week 1
 
@@ -16,10 +16,11 @@ Ping: 13.12.2016
 
 ## Week 2
 
-- [ ] Quiz
+- [X] Quiz
 
 ## Week 3
 
+- [ ] Make a circle of fifth card, and some other cards - use Marcel's little book, too!
 - [ ] Quiz
 
 ## Week 4

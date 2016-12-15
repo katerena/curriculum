@@ -26,3 +26,7 @@ Learning Goal: Learn to use Krita
 
 - [ ] Krita tool: snowflake, tessalation
 - [ ] Animation tutorial
+
+## Week 4
+
+- [ ] [Consider other learning courses to further skills](http://www.ctrlpaint.com/)
