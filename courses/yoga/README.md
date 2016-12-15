@@ -4,7 +4,7 @@ Category: Health
 
 Curriculum: Self
 
-Ping: 14.12.2016
+Ping: 17.12.2016
 
 Start: 12.12.2016
 
@@ -16,12 +16,16 @@ Photo-Credit: https://www.beeminder.com/katerena/moinmoin
 
 Learning Goal: continue to cultivate a pattern of short regular sessions
 
-- [X] One morning DailyYoga session
-- [ ] One evening DailyYoga session
-- [ ] Bouldering or a long-ish bike ride
-- [ ] Formal meditation
+- [X] Activity 1: One morning DailyYoga session
+- [X] Activity 2: Bouldering
+- [ ] Activity 3: TBD
+- [ ] Formal Meditation: 10-30 mins
 
 ## Week 2
 
-- [ ] Two morning DY sessions
-- [ ] One evening session
+Learning Goal: continue to cultivate a pattern of regular sessions, with effort to lengthen them
+
+- [ ] Activity 1: Bouldering
+- [ ] Activity 2: TBD
+- [ ] Activity 3: TBD
+- [ ] Formal Meditation: 10-30 mins

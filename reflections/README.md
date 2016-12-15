@@ -2,6 +2,11 @@
 
 - [ ] nice audiorec hardware
 
+## crafts/needle&thread
+
+- [ ] http://www.instructables.com/class/Embroidery-Class/
+- [ ] [http://www.instructables.com/class/Hand-Sewing-Class/](Hand Sewing)
+
 ## science/labnotes
 
 - [ ] [Publication-ready iPy notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
@@ -22,7 +27,6 @@
 - [ ] RF's email
 - [ ] Music Synthesizer on Coursera
 - [ ] MT's super tiny super dense book!
-- [ ] 
 
 ## emotions
 
@@ -51,3 +55,10 @@
 ## history/animal
 
 - [ ] Crsra - Ancient Marine Mammals
+
+## tech/hardware
+
+- [ ] Cool project idea: [chess board that lets you play physical chess (magnets!) against distance players or machine](https://www.indiegogo.com/projects/square-off-world-s-smartest-chess-board--2#/) - I would prefer machine. [Electromagnets + Arduino](http://www.instructables.com/id/How-to-Control-an-Electromagnet-with-an-Arduino/)
+- [ ] OMG [INSTRUCTUABLES](http://www.instructables.com/tag/type-id/category-technology/channel-arduino/)
+- [ ] Wearables http://www.instructables.com/class/Wearable-Electronics-Class/
+- [ ] LEDs http://www.instructables.com/class/LEDs-and-Lighting-Class/
